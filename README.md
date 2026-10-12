@@ -1,1 +1,3 @@
-# codeforces
+# Codeforces
+
+This repository contains my codeforces solutions.
